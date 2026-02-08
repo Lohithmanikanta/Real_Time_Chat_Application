@@ -1,4 +1,4 @@
-# SocketSpeak
+# Real_Time_Chat_Application
 
 A real-time chat application built with Node.js, Express, Socket.IO, and React.
 
@@ -20,7 +20,7 @@ A real-time chat application built with Node.js, Express, Socket.IO, and React.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/socketspeak.git
+git clone https://github.com/yourusername/Real_Time_Chat_Application.git
 cd socketspeak
 ```
 
@@ -58,7 +58,7 @@ npm run dev
 ## Project Structure
 
 ```
-socketspeak/
+Real_Time_Chat_Application/
 ├── backend/           # Backend server code
 │   ├── src/
 │   │   ├── controllers/
